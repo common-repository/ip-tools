@@ -1,0 +1,2 @@
+/* IP Tools: IPv6 is in use -- make ipv4 class invisible */
+.ipt_ipv4only { display: none !important; }
